@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteAdminPro", "RemoteAdminPro\RemoteAdminPro.csproj", "{C936306E-B366-4A15-88B8-95786401A496}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "Remote Admin", "RAinstaller\RAinstaller.vddproj", "{FD077C8F-CD5A-480C-A7B8-798FAEC46EE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C936306E-B366-4A15-88B8-95786401A496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C936306E-B366-4A15-88B8-95786401A496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C936306E-B366-4A15-88B8-95786401A496}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C936306E-B366-4A15-88B8-95786401A496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C936306E-B366-4A15-88B8-95786401A496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C936306E-B366-4A15-88B8-95786401A496}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FD077C8F-CD5A-480C-A7B8-798FAEC46EE9}.Debug|Any CPU.ActiveCfg = Debug
+		{FD077C8F-CD5A-480C-A7B8-798FAEC46EE9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
